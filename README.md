@@ -13,6 +13,9 @@ Es un lenguaje que es humanamente legible y cercano a como los seres humanos hab
 
 # En este curso trabajaremos con Javascript y Typescript
 
+# seccion_1.ts
+## ¡ Aqui inicia la primera seccion !
+
 ## Impresion en consola
 console.log('dato o msn a imprimir')
 
@@ -37,14 +40,90 @@ Aquí están las partes clave de una función:
 >>En resumen, las funciones nos permiten modularizar y reutilizar el código, lo cual es fundamental en el desarrollo de programas informáticos123. Si tienes más preguntas, no dudes en preguntar. 😊
 
 ## Creacion de una funcion para incrementar valor
-function incrementoValor (){\n
-    // esta incrementara el valor\n
-    numero++\n
+function incrementoValor (){
+    // esta incrementara el valor
+    numero++
 
 }
 ## Creacion de una funcion para Decrementar valor
-function incrementoValor (){\n
-    // esta incrementara el valor\n
-    numero--\n
+function incrementoValor (){
+    // esta incrementara el valor
+    numero--
     
 }
+## Creacion de una funcion para incrementar valor de 2 en 2 tambien se puede crear para disminuir de 2 en 2
+function incrementoValor (){
+    // esta incrementara el valor
+    numero+2
+    numero-2
+    
+}
+
+# seccion_2.ts
+## ¡ Aqui inicia la Segunda seccion !
+
+
+## Palabras reservadas
+
+>if
+>const
+>for
+>while
+>case
+>switch
+>Entre otras ....
+
+## lowerCamelCase -> se usa para crear funciones  y variables
+let nombreUsuario
+
+## UperCamelCase -> se usa cuando se crea una clase
+ImprimirEnConsola
+
+# Tipos de variables
+
+//creando variable numero
+let promedioNotas :number = 4;
+let promedioNotas2  = 4;
+
+//creando variable texto
+let nombre :string = 'carlos';
+let nombre2 = 'carlos';
+
+//creando variable texto
+let desactivado :boolean = false;
+let activo :boolean = true;
+let activo3  = true;
+console.log("inverso  es :",!activo3)
+
+
+## SECCION_3.ts 
+> If 
+>>if(validacion ){
+>>    console.log("lo que haria");
+>>}
+
+> If anidado ( If - If )
+>>if(validacion){
+>>     console.log("lo que haria");
+>>}
+>>if(validacion2){
+>>    console.log("lo que haria 2");
+>>}
+
+> If anidado ( If - Else )
+>>if(validacion){
+>>    console.log("lo que haria");
+>>}else
+>>{
+>>    console.log("lo que haria 2");
+>>}
+
+> Otra forma y si no
+>>if(validacion){
+>>    console.log("lo que haria ");
+>>} else if(validacion2){
+>>    console.log("lo que haria 2");
+>>} else {
+>>    console.log("no sabe que haria 3");
+>>}
+    
