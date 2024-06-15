@@ -40,4 +40,11 @@ Aquí están las partes clave de una función:
 function incrementoValor (){
     // esta incrementara el valor
     numero++
+
+}
+## Creacion de una funcion para Decrementar valor
+function incrementoValor (){
+    // esta incrementara el valor
+    numero--
+    
 }
