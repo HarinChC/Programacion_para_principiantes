@@ -1,14 +1,14 @@
 #😊 Programacion_para_principiantes 😊
 Este Repo es referente a el curso realizado en udemy del curso programacion para principiantes
 
-##:tw-1f4e2: ¿Qué es un lenguaje de programación? :tw-1f4e2:
+## ¿Qué es un lenguaje de programación?
  Un lenguaje de programación es un conjunto de reglas y símbolos que los desarrolladores utilizan para comunicarse con las computadoras. Es como enseñarle a la máquina qué hacer. Ejemplos de lenguajes de programación incluyen Python, JavaScript, Java, C++, PHP y muchos más
 
-## :fa-arrow-down:  Bajo nivel 
+## Bajo nivel 
 Es lo mas cercano al lenguaje nativo de la computadora 
 0100101010101 -> Binarios
 
-##  :fa-arrow-up:Alto nivel
+## Alto nivel
 Es un lenguaje que es humanamente legible y cercano a como los seres humanos hablamos SMS->Mensajes de texto
 
 # En este curso trabajaremos con Javascript y Typescript
@@ -40,4 +40,11 @@ Aquí están las partes clave de una función:
 function incrementoValor (){
     // esta incrementara el valor
     numero++
+
+}
+## Creacion de una funcion para Decrementar valor
+function incrementoValor (){
+    // esta incrementara el valor
+    numero--
+    
 }
