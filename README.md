@@ -37,14 +37,14 @@ Aquí están las partes clave de una función:
 >>En resumen, las funciones nos permiten modularizar y reutilizar el código, lo cual es fundamental en el desarrollo de programas informáticos123. Si tienes más preguntas, no dudes en preguntar. 😊
 
 ## Creacion de una funcion para incrementar valor
-function incrementoValor (){
-    // esta incrementara el valor
-    numero++
+function incrementoValor (){\n
+    // esta incrementara el valor\n
+    numero++\n
 
 }
 ## Creacion de una funcion para Decrementar valor
-function incrementoValor (){
-    // esta incrementara el valor
-    numero--
+function incrementoValor (){\n
+    // esta incrementara el valor\n
+    numero--\n
     
 }
